@@ -27,8 +27,8 @@ st.write('음수?? 어렵지 않아!')
 # 버튼 생성 및 동작
 #if st.button('양수일까 ____일까?'):
 #       if a > 0:
-#              st.write('________')
+#              st.write('양수입니다')
 #       elif a < 0:
-#              st.write('________')
+#              st.write('음수입니다')
 #       else:
 #              st.write('________')
